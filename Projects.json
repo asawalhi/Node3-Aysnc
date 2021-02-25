@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Project X",
+        "details": {
+            "start-time": "04-04-2021",
+            "end-time": "12-12-2021",
+            "customer": "DB-cooper"
+        }
+
+    },
+    {
+        "id": 2,
+        "name": "Project Y",
+        "details": {
+            "start-time": "04-04-2022",
+            "end-time": "12-12-2022",
+            "customer": "Jackson"
+        }
+
+    },
+    {
+        "id": "3",
+        "name": "Project Z",
+        "details": {
+            "start-time": "05-05-2021",
+            "end-time": "10-10-2021",
+            "customer": "Sony"
+        }
+
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "id": "1",
+        "name": "Mr.A",
+        "details": {
+                "dob": "01-01-2000",
+                "city": "Detriot",
+                "email": "a@email.com"},
+        "projectId": "1"
+    },
+    {
+        "id": 2,
+        "name": "Mr.Rojer",
+        "details": {
+                "dob": "01-02-2000",
+                "city": "Dallas",
+                "email": "b@email.com"},
+        "projectId": "2"
+    },
+    {
+        "id": "3",
+        "name": "Mr.C",
+        "details": {
+                "dob": "01-03-2000",
+                "city": "Boston",
+                "email": "c@email.com"},
+        "projectId": "3"
+    }
+]
